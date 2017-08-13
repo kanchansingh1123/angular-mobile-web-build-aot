@@ -1,1 +1,1 @@
-# Angular-UniversalApp-Build
+# Scaffolding for Universal app.
