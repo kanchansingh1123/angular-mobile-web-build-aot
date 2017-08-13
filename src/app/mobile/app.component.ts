@@ -1,5 +1,5 @@
 import { Component, ViewChild } from '@angular/core';
-import { NavController, Platform, Loading, Nav } from 'ionic-angular';
+import { Nav } from 'ionic-angular';
 
 
 import { LoginInfoPage } from './../../pages/mobile/login/login';
